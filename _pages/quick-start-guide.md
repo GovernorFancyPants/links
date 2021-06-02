@@ -4,7 +4,6 @@ permalink: "/quick-start-guide/"
 excerpt: Minimal Mistakes for Forestry.
 last_modified_at: 2020-06-10
 toc: false
-published: false
 
 ---
 This starter has been preconfigured for [Forestry](https://forestry.io) Git-based CMS.
